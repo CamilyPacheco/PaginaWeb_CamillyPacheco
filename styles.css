@@ -1,0 +1,18 @@
+.card{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 4%;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 15px;
+}
+
+.card-img-top{
+    border-radius: 30%;
+}
+
+body {
+    background-image: url("https://img.freepik.com/fotos-premium/colecciones-imagenes-fondo-adorables-fondos-pantalla-generados_859483-273719.jpg?w=360");
+    background-size: cover;
+}
